@@ -13,4 +13,5 @@ public class deneme {
 
     // git push
    // ekleme yaptim
+    //tekrar kod yazdim
 }
