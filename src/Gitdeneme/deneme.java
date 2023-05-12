@@ -9,13 +9,19 @@ public class deneme {
 
     //  git add .
 
-    // git commit -m
+    // git commit -m " isim "
+
+    // git log --oneline commitleri gsterir
+
+    // git show [hash kod] commitlerde ne yapilmis gormek icin
 
     // git push
+
 
     // ekleme yaptim
     // tekrar kod yazdim
     //tekrar kod
     //tekrar kod yaziyorum
     //kod yaziyorum
+    //dfghjkl
 }
