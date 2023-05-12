@@ -13,5 +13,6 @@ public class deneme {
 
     // git push
    // ekleme yaptim
-    //tekrar kod yazdim
+    // tekrar kod yazdim
+    //tekrar kod
 }
