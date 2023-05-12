@@ -14,4 +14,8 @@ public class deneme {
     // git push
    // ekleme yaptim
     //tekrar kod yazdim
+
+    // git branch -m merve ---> branch ismi degirstirmek icin
+    // git branch -d merve ---> branchi silmek icin kullanilir
+
 }
