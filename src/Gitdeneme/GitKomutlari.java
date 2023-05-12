@@ -111,5 +111,7 @@ public class GitKomutlari {
    git stash drop                 # Commit yapilmamis degisiklikleri kaldır
          */
     }
-/// calistim yeni kod ekledim
+   /// calistim yeni kod ekledim
+    //dsfghjkl
+
 }
