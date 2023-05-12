@@ -12,8 +12,10 @@ public class deneme {
     // git commit -m
 
     // git push
-   // ekleme yaptim
+
+    // ekleme yaptim
     // tekrar kod yazdim
     //tekrar kod
     //tekrar kod yaziyorum
+    //kod yaziyorum
 }
