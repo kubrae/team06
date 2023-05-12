@@ -15,4 +15,5 @@ public class deneme {
    // ekleme yaptim
     // tekrar kod yazdim
     //tekrar kod
+    //tekrar kod yaziyorum
 }
